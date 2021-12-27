@@ -10,9 +10,12 @@ This repository is an archive of [두루책방 (Dooru Library)](http://xn--hu1b4
 
 ## Links
 
-### Data
+### Books
 
-- [Book List](data/book-list.md)
+- [List](books/list.md) of all books that includes
+  - book descriptions (ID, language, title, step, tags)
+  - book links (web viewer, converted `txt` file)
+- Above list in raw `csv` [file](books/list.csv).
 
 ### About
 
