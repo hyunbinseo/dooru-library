@@ -19,6 +19,7 @@ This repository is an archive of [두루책방 (Dooru Library)](http://xn--hu1b4
 ## Books
 
 - Reference [`data.csv`](data.csv) for the raw data.
+- Reference [`/files`](files) for lists of all binary files.
 - `${Number}_${Language}` is also used as ID. (e.g. `101_ko-kr`)
 - Book text files are converted from the original `epub` files using [ebook-convert](https://manual.calibre-ebook.com/generated/en/ebook-convert.html).
 
@@ -238,3 +239,7 @@ This repository is an archive of [두루책방 (Dooru Library)](http://xn--hu1b4
 | 4     | [206](alink/206.txt) | [914](books/914_ko-kr.txt) | ko-kr    | [백제를 세운 온조](http://xn--hu1b40go5ck8x.com/e-book/ecatalog5.php?Dir=206&catimage=1)                  | 역사      |
 | 4     | [207](alink/207.txt) | [915](books/915_ko-kr.txt) | ko-kr    | [고려를 세운 태조 왕건](http://xn--hu1b40go5ck8x.com/e-book/ecatalog5.php?Dir=207&catimage=1)             | 역사      |
 | 4     | [208](alink/208.txt) | [916](books/916_ko-kr.txt) | ko-kr    | [조선을 세운 태조 이성계](http://xn--hu1b40go5ck8x.com/e-book/ecatalog5.php?Dir=208&catimage=1)           | 역사      |
+
+## Miscellaneous
+
+- `(book_)+(en_ph|ko_kr|th_th|vi_vn|zh_cn)+(_[0-9]{3}_page_[0-9]{1,2}_1.mp3)`
