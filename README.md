@@ -5,7 +5,6 @@ This repository is an archive of [두루책방](http://xn--hu1b40go5ck8x.com/) (
 ## Dooru Library
 
 - Created by [The Foundation SeeArt for Book Culture](https://seeart2007.modoo.at/) and [Enuma](https://enuma.com/).
-- Protected under CC BY 4.0 license according to the Korean [about page](http://xn--hu1b40go5ck8x.com/help.php) ([archive](https://web.archive.org/web/20211227050236/http://%EB%91%90%EB%A3%A8%EC%B1%85%EB%B0%A9.com/help.php)).
 - Korean domain `두루책방.com` is auto-converted to `http://xn--hu1b40go5ck8x.com/`.
 
 ### About
@@ -15,6 +14,14 @@ This repository is an archive of [두루책방](http://xn--hu1b40go5ck8x.com/) (
 - [关于图书馆](about/Chinese.md)
 - [เกี่ยวกับห้องสมุด](about/Thai.md)
 - [About the Library](about/English.md)
+
+### License
+
+All content is protected under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+> 두루책방의 모든 콘텐츠는 CC BY 4.0 저작권으로 — 두루책방 책방안내 ([2021-11-22](https://web.archive.org/web/20211227050236/http://xn--hu1b40go5ck8x.com/help.php))
+
+> 두루책방의 모든 책은 파일로 다운받을 수 있습니다. 모든책의 저작권은 CC BY 4.0으로 자료 복사 및 재배포, 수정 및 가공이 가능합니다. — 두루책방 팝업 ([2022-03-07](https://web.archive.org/web/20220307003716/http://xn--hu1b40go5ck8x.com/))
 
 ## Books
 
